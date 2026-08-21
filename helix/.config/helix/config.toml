@@ -3,6 +3,7 @@ theme = "catppuccin_mocha"
 [editor]
 line-number = "relative"
 end-of-line-diagnostics = "hint"
+true-color = true
 
 [editor.inline-diagnostics]
 cursor-line = "warning"
